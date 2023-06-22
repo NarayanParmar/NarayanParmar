@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 Hello, my name is Narayan Parmar I am pursuing B.Tech in Computer Engineering (3rd year) at Silver Oak University, Ahmedabad and currently learning full stack development. Fascinated about Quantum Physics.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NarayanParmar" alt="NarayanParmar" /> </p>
 
 
 <!--
