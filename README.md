@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi there 
+Hello, my name is Narayan Parmar I am pursuing B.Tech in Computer Engineering (3rd year) at Silver Oak University, Ahmedabad and currently learning full stack development. Fascinated about Quantum Physics.
+
 
 <!--
 **NarayanParmar/NarayanParmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
